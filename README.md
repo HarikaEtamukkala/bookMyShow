@@ -1,1 +1,1 @@
-# bookmyshow-sql-case
+# bookmyshow-sql
